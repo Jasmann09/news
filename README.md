@@ -1,0 +1,2 @@
+# news
+Displays latest news
